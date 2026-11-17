@@ -13,7 +13,7 @@
 
 <p align="center">
   A team of AI agents designs, verifies and documents chips end to end.<br>
-  One human operator sets direction and signs off on the spec and the tests. The agents do everything else.
+  One human operator sets direction and signs off on the spec and on changes to existing tests. The agents do everything else.
 </p>
 
 ---
